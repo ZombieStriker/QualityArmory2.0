@@ -1,0 +1,7 @@
+name: QualityArmory2.0
+version: '${project.version}'
+main: me.zombie_striker.qualityarmory.QualityArmoryPlugin
+api-version: 1.19
+softdepend: [ Vault ]
+authors: [ Zombie_Striker ]
+description: A better rework of QualityArmory
